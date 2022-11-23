@@ -17,7 +17,7 @@ bottone.addEventListener("click", function(){
             console.log("Fizz");
         }
         else if (i % 5 == 0) {
-            const elemento = `<li class="mt-3 blu"> Buzz </li> `;
+            const elemento = `<li class="mt-3 tuchese"> Buzz </li> `;
             ul.innerHTML += elemento;
             console.log("Buzz");
         }       else {
