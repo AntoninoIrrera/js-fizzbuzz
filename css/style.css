@@ -14,3 +14,8 @@
 .verde{
     color: green;
 }
+
+
+body{
+    background-color: currentColor;
+}
